@@ -1,0 +1,50 @@
+.view{
+    display:flex;
+}
+.form-view {
+    width: 160px;
+}
+.view_title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px 0;
+}
+.back {
+    text-align: center;
+    margin-top: 15px;
+}
+.create{
+    display:flex;
+}
+.form-create {
+    width: 250px;
+}
+.create_title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px 0;
+}
+.save {
+    margin-top: 15px;
+    float: right;
+}
+.save-button {
+    margin-right: 20px;
+}
+#page-content-wrapper {
+    padding: 0 5%;
+}
+.relation {
+    border: 1px solid #ccc;
+}
+.thead-inverse {
+    background: #eee;
+}
+.table {
+    margin-bottom: 0px;
+}
+.container {
+    /*padding: 50px 0;*/
+}
